@@ -1,13 +1,3 @@
-Primero te dejo la descripción corta para portfolio (máximo 3 párrafos), enfocada como proyecto de aprendizaje:
-
-Este proyecto consiste en una librería de videojuegos desarrollada como ejercicio práctico, donde los datos se gestionan desde un archivo JSON que alimenta dinámicamente la aplicación. La página principal se genera a partir de esos datos, mostrando los juegos disponibles junto con sus categorías y etiquetas.
-
-El foco técnico estuvo en la lectura y renderizado dinámico de datos, construyendo la interfaz mediante manipulación del DOM y generación automática de contenido. Implementé un sistema de filtros por categorías y tags, permitiendo al usuario refinar los resultados sin recargar la página.
-
-Además, cada juego cuenta con su subpágina generada dinámicamente a partir del JSON, reforzando conceptos como estructuras de datos, renderizado condicional y reutilización de lógica, consolidando una base sólida para futuros desarrollos con APIs y frameworks.
-
-Ahora te redacto un README profesional para GitHub, estructurado y listo para usar:
-
 🎮 Game Library
 
 Proyecto frontend desarrollado con HTML, CSS y JavaScript, enfocado en la generación dinámica de contenido a partir de un archivo JSON.
