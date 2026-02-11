@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Games Library</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><img src="./sources/icons/logo.svg" alt="Logo"><h1>MatchPlay</h1>
+        <h6>Gaming library for fun</h6>
+        </div>
+    </header>
+    <main>
+        <section class="search-box">
+ 
+        </section>
+        <section class="games-box">
+            <div class="search-box">
+                <form action="">
+                    <input type="search" id="inputsearch" placeholder="Search games...">
+                    
+                    <select name="genre" id="genre-select">
+                        <option value="all">All Genres</option>
+                        <option value="action">Action</option>
+                        <option value="adventure">Adventure</option>
+                        <option value="fps">FPS</option>
+                        <option value="jrpg">JRPG</option>
+                        <option value="metroidvania">Metroidvania</option>
+                        <option value="platformer">Platformer</option>
+                        <option value="rpg">RPG</option>
+                        <option value="roguelike">RogueLike</option>
+                    </select>
+                </form>
+            </div>
+            <section class="main-content">
+                    <div class="side-bar">
+                    <div class="tag-container">
+
+                        <label><input type="checkbox" value="turn-based" name="tag-filter"> Turn-Based</label>
+                        <label><input type="checkbox" value="fantasy" name="tag-filter"> Fantasy</label>
+                        <label><input type="checkbox" value="single-player" name="tag-filter"> Single Player</label>
+                        <label><input type="checkbox" value="roguelike" name="tag-filter"> Roguelike</label>
+                        <label><input type="checkbox" value="action" name="tag-filter"> Action</label>
+                        <label><input type="checkbox" value="mythology" name="tag-filter"> Mythology</label>
+                        <label><input type="checkbox" value="narrative" name="tag-filter"> Narrative</label>
+                        <label><input type="checkbox" value="adventure" name="tag-filter"> Adventure</label>
+                        <label><input type="checkbox" value="open-world" name="tag-filter"> Open World</label>
+                        <label><input type="checkbox" value="third-person" name="tag-filter"> Third Person</label>
+                        <label><input type="checkbox" value="metroidvania" name="tag-filter"> Metroidvania</label>
+                        <label><input type="checkbox" value="indie" name="tag-filter"> Indie</label>
+                        <label><input type="checkbox" value="2d" name="tag-filter"> 2D</label>
+                        <label><input type="checkbox" value="star-wars" name="tag-filter"> Star Wars</label>
+                        <label><input type="checkbox" value="exploration" name="tag-filter"> Exploration</label>
+                        <label><input type="checkbox" value="casual" name="tag-filter"> Casual</label>
+                        <label><input type="checkbox" value="platformer" name="tag-filter"> Platformer</label>
+                        <label><input type="checkbox" value="challenge" name="tag-filter"> Challenge</label>
+                        <label><input type="checkbox" value="fps" name="tag-filter"> FPS</label>
+                        <label><input type="checkbox" value="shooter" name="tag-filter"> Shooter</label>
+                        <label><input type="checkbox" value="action-rpg" name="tag-filter"> Action RPG</label>
+                        <label><input type="checkbox" value="co-op" name="tag-filter"> Co-op</label>
+                        <label><input type="checkbox" value="multiplayer" name="tag-filter"> Multiplayer</label>
+                        <label><input type="checkbox" value="hunting" name="tag-filter"> Hunting</label>
+                        <label><input type="checkbox" value="fighting" name="tag-filter"> Fighting</label>
+                        <label><input type="checkbox" value="anime" name="tag-filter"> Anime</label>
+
+
+                    </div>
+
+                    </div>
+                    <div class="grid">
+
+                    </div>  
+            </section>
+
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 My Games Library. All rights reserved.</p>
+    </footer>
+    <script src="fetch-data.js"></script>
+    <script src="filter.js"></script>
+</body>
+</html>

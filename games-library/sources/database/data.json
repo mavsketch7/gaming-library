@@ -1,0 +1,279 @@
+[
+  {
+    "id": "clair-obscur-expedition-33",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/0f2bb607ca3f9cc7c795818b955542d076b2bebf/header_alt_assets_0.jpg?t=1765922192",
+    "title": "Clair Obscur: Expedition 33",
+    "genre": "JRPG",
+    "description": "A turn-based RPG set in a dark fantasy world, where a cursed expedition seeks to stop a catastrophic force that erases people by age.",
+    "extendedDescription": "A dark fantasy JRPG that combines classic turn-based combat with modern real-time mechanics. Players lead Expedition 33, a doomed group fighting against a mysterious force that erases people from existence based on age. The game emphasizes narrative depth, strategic battles, and a distinctive artistic identity.",
+    "tags": ["RPG", "Turn-Based", "Fantasy", "Single Player"],
+    "platforms": ["PS5", "Xbox", "PC"],
+    "rating": "9.2",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Clair+Obscur+1",
+        "https://placehold.co/1280x720?text=Clair+Obscur+2",
+        "https://placehold.co/1280x720?text=Clair+Obscur+3"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder1",
+    "releaseDate": "2025-04-24",
+    "developer": "Sandfall Interactive",
+    "publisher": "Kepler Interactive",
+    "modes": ["Single Player"],
+    "features": ["Narrative-driven RPG", "Turn-based combat", "Unique art style"],
+    "playtimeEstimate": "30–40 hours",
+    "languages": ["English", "Spanish", "French", "German"]
+  },
+  {
+    "id": "hades-ii",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1765831644",
+    "title": "Hades II",
+    "genre": "Roguelike",
+    "description": "The sequel to Hades, following Melinoë, Princess of the Underworld, as she battles the Titan of Time.",
+    "extendedDescription": "Hades II builds on the acclaimed roguelike formula of its predecessor, introducing new abilities, gods, and narrative arcs. Players control Melinoë in fast-paced combat encounters while uncovering an evolving story rooted in Greek mythology.",
+    "tags": ["Roguelike", "Action", "Mythology", "Single Player"],
+    "platforms": ["PC", "Switch"],
+    "rating": "9.0",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Hades+II+1",
+        "https://placehold.co/1280x720?text=Hades+II+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder2",
+    "releaseDate": "2024-12-01",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "modes": ["Single Player"],
+    "features": ["Fast-paced action", "Procedural runs", "Strong narrative"],
+    "playtimeEstimate": "20–60 hours",
+    "languages": ["English", "Spanish", "French", "Italian", "German"]
+  },
+  {
+    "id": "death-stranding-2",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1764081491",
+    "title": "Death Stranding 2",
+    "genre": "Adventure",
+    "description": "A narrative-driven sequel that expands the original game's post-apocalyptic world.",
+    "extendedDescription": "A continuation of Hideo Kojima’s vision, expanding the themes of connection, isolation, and cooperation. The sequel introduces new mechanics, environments, and narrative twists while maintaining its unique asynchronous online systems.",
+    "tags": ["Narrative", "Adventure", "Open World"],
+    "platforms": ["PS5"],
+    "rating": "8.8",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Death+Stranding+2+1",
+        "https://placehold.co/1280x720?text=Death+Stranding+2+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder3",
+    "releaseDate": "2025-06-15",
+    "developer": "Kojima Productions",
+    "publisher": "Sony Interactive Entertainment",
+    "modes": ["Single Player"],
+    "features": ["Story-focused gameplay", "Asynchronous multiplayer", "Exploration"],
+    "playtimeEstimate": "35–50 hours",
+    "languages": ["English", "Spanish", "French", "German", "Japanese"]
+  },
+  {
+    "id": "star-wars-outlaws",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/header.jpg?t=1748385237",
+    "title": "Star Wars Outlaws",
+    "genre": "Action",
+    "description": "An open-world Star Wars game that follows the scoundrel Kay Vess.",
+    "extendedDescription": "Star Wars Outlaws offers a large-scale open-world adventure set in the Star Wars universe, focusing on the criminal underworld. Players explore planets, engage in combat, and make narrative choices that affect their journey.",
+    "tags": ["Star Wars", "Open World", "Action", "Adventure"],
+    "platforms": ["PS5", "Xbox", "PC"],
+    "rating": "8.5",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Outlaws+1",
+        "https://placehold.co/1280x720?text=Outlaws+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder4",
+    "releaseDate": "2024-08-30",
+    "developer": "Massive Entertainment",
+    "publisher": "Ubisoft",
+    "modes": ["Single Player"],
+    "features": ["Open-world exploration", "Cinematic storytelling", "Blaster combat"],
+    "playtimeEstimate": "25–40 hours",
+    "languages": ["English", "Spanish", "French", "German", "Italian"]
+  },
+  {
+    "id": "blade-chimera",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671230/28af6bb51cc2716526d1d6cfae542d0e66cff753/header.jpg?t=1750039177",
+    "title": "Blade Chimera",
+    "genre": "Metroidvania",
+    "description": "A 2D action game with Metroidvania-style progression.",
+    "extendedDescription": "Blade Chimera blends fast-paced 2D combat with exploration-driven progression. Players wield a sentient demon blade while uncovering secrets in a post-apocalyptic world.",
+    "tags": ["Action", "Metroidvania", "Indie", "2D"],
+    "platforms": ["Switch", "PC"],
+    "rating": "8.3",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Blade+Chimera+1",
+        "https://placehold.co/1280x720?text=Blade+Chimera+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder5",
+    "releaseDate": "2024-11-10",
+    "developer": "Indie Studio",
+    "publisher": "Indie Publisher",
+    "modes": ["Single Player"],
+    "features": ["2D combat", "Exploration", "Skill upgrades"],
+    "playtimeEstimate": "12–18 hours",
+    "languages": ["English", "Japanese"]
+  },
+  {
+    "id": "little-kitty-big-city",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/c6f401a25f3c49c72adbb8936013648a51935c4b/header.jpg?t=1756399078",
+    "title": "Little Kitty, Big City",
+    "genre": "Adventure",
+    "description": "A lighthearted adventure game where players control a curious cat.",
+    "extendedDescription": "A charming and relaxing adventure where players explore a vibrant city through the eyes of a mischievous cat. The game focuses on exploration, humor, and small-scale interactions.",
+    "tags": ["Adventure", "Exploration", "Casual", "Indie"],
+    "platforms": ["Switch", "PC", "Xbox", "PS5"],
+    "rating": "8.0",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Kitty+1",
+        "https://placehold.co/1280x720?text=Kitty+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder6",
+    "releaseDate": "2024-05-01",
+    "developer": "Double Dagger Studio",
+    "publisher": "Double Dagger Studio",
+    "modes": ["Single Player"],
+    "features": ["Relaxed gameplay", "Exploration", "Charming visuals"],
+    "playtimeEstimate": "6–8 hours",
+    "languages": ["English", "Spanish", "French", "German"]
+  },
+  {
+    "id": "telebbit",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504250/header.jpg?t=1761328152",
+    "title": "Telebbit",
+    "genre": "Platformer",
+    "description": "A fast-paced 2D platformer centered on precision movement.",
+    "extendedDescription": "Telebbit is a challenging 2D platformer built around precision, speed, and teleportation mechanics. Designed for players who enjoy mastering movement systems.",
+    "tags": ["Platformer", "Indie", "Challenge", "2D"],
+    "platforms": ["PC", "Switch", "PS5", "Xbox"],
+    "rating": "8.1",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Telebbit+1",
+        "https://placehold.co/1280x720?text=Telebbit+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder7",
+    "releaseDate": "2024-09-12",
+    "developer": "Indie Dev",
+    "publisher": "Indie Publisher",
+    "modes": ["Single Player"],
+    "features": ["Precision platforming", "Teleport mechanics"],
+    "playtimeEstimate": "8–12 hours",
+    "languages": ["English"]
+  },
+  {
+    "id": "doom-the-dark-ages",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg?t=1764606093",
+    "title": "DOOM: The Dark Ages",
+    "genre": "FPS",
+    "description": "A darker, medieval-inspired entry in the DOOM franchise.",
+    "extendedDescription": "DOOM: The Dark Ages reimagines the franchise with a brutal medieval tone, blending heavy weaponry with savage close-quarters combat.",
+    "tags": ["FPS", "Action", "Shooter", "Single Player"],
+    "platforms": ["PS5", "Xbox", "PC"],
+    "rating": "8.4/10",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=DOOM+1",
+        "https://placehold.co/1280x720?text=DOOM+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder8",
+    "releaseDate": "2025-03-20",
+    "developer": "id Software",
+    "publisher": "Bethesda",
+    "modes": ["Single Player"],
+    "features": ["Fast FPS combat", "Dark fantasy tone"],
+    "playtimeEstimate": "15–20 hours",
+    "languages": ["English", "Spanish", "French", "German"]
+  },
+  {
+    "id": "south-of-midnight",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/header.jpg?t=1744907120",
+    "title": "South of Midnight",
+    "genre": "Adventure",
+    "description": "A Southern Gothic action-adventure game inspired by folklore.",
+    "extendedDescription": "South of Midnight blends Southern Gothic folklore with action-adventure gameplay, offering a unique visual identity and narrative-driven experience.",
+    "tags": ["Action", "Adventure", "Narrative", "Fantasy"],
+    "platforms": ["Xbox", "PC"],
+    "rating": "8.6",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=Midnight+1",
+        "https://placehold.co/1280x720?text=Midnight+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder9",
+    "releaseDate": "2025-02-18",
+    "developer": "Compulsion Games",
+    "publisher": "Xbox Game Studios",
+    "modes": ["Single Player"],
+    "features": ["Folklore-inspired world", "Narrative focus"],
+    "playtimeEstimate": "12–16 hours",
+    "languages": ["English", "Spanish", "French"]
+  },
+  {
+    "id": "monster-hunter-wilds",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/7ad42e4bfbbffc4d554c2116efe53b4d7f0c0985/header_alt_assets_5.jpg?t=1765865257",
+    "title": "Monster Hunter Wilds",
+    "genre": "RPG",
+    "description": "The next evolution of the Monster Hunter series.",
+    "extendedDescription": "Monster Hunter Wilds expands the franchise with open environments, dynamic ecosystems, and deeper cooperative mechanics.",
+    "tags": ["Action RPG", "Co-op", "Multiplayer", "Hunting"],
+    "platforms": ["PS5", "Xbox", "PC"],
+    "rating": "8.9",
+    "gallery": {
+      "images": [
+        "https://gameinformer.com/sites/default/files/styles/content_header_l/public/2025/03/17/0e4f92d4/monster_hunter_wilds_doshaguma_chase.jpg.webp",
+        "https://i.guim.co.uk/img/media/3608b301b2698e37bbeb3a5e5bcd940ae6eb500a/240_0_3600_2160/master/3600.jpg?width=1200&quality=85&auto=format&fit=max&s=3a47261d6bb9160580030bb822b57860",
+        "https://www.nme.com/wp-content/uploads/2024/06/Monster-Hunter-Wilds-preview-gameplay.jpg"
+      ]
+    },
+    "trailer": "https://www.youtube.com/embed/a_wNFT4j6qI?si=dhHEIxeNYKq1V347",
+    "releaseDate": "2025-01-25",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "modes": ["Single Player", "Multiplayer", "Co-op"],
+    "features": ["Large monsters", "Cooperative hunts"],
+    "playtimeEstimate": "100+ hours",
+    "languages": ["English", "Spanish", "French", "German", "Japanese"]
+  },
+  {
+    "id": "dragon-ball-sparking-zero",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1758754863",
+    "title": "Dragon Ball Sparking Zero",
+    "genre": "Fighting",
+    "description": "A fast-paced fighting game featuring characters from the Dragon Ball universe.",
+    "extendedDescription": "Dragon Ball Sparking Zero delivers high-energy battles faithful to the anime, featuring destructible environments and an extensive roster of characters.",
+    "tags": ["Fighting", "Anime", "Multiplayer", "Action"],
+    "platforms": ["PC", "Xbox", "PS5", "Switch"],
+    "rating": "9.1",
+    "gallery": {
+      "images": [
+        "https://placehold.co/1280x720?text=DB+1",
+        "https://placehold.co/1280x720?text=DB+2"
+      ]
+    },
+    "trailer": "https://www.youtube.com/watch?v=placeholder11",
+    "releaseDate": "2024-10-15",
+    "developer": "Spike Chunsoft",
+    "publisher": "Bandai Namco",
+    "modes": ["Single Player", "Multiplayer"],
+    "features": ["Fast combat", "Iconic characters"],
+    "playtimeEstimate": "20–50 hours",
+    "languages": ["English", "Spanish", "French", "German", "Japanese"]
+  }
+]
